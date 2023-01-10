@@ -2,7 +2,9 @@
 
 Instructions (software setup):
 
-Add your navidrome login info in the .env file.
+1. Add your navidrome login info in the .env file.
+2. Run app with node, nodemon, pm2 etc
+
 The code assumes you are using pin 4 for the star/unstar button
 The code assumes you are using a 20x4 I2C display
 
