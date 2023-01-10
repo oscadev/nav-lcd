@@ -17,7 +17,7 @@ let config = {
   navidrome: {
     url: process.env.NAVIDROME_URL,
     username: process.env.NAVIDROME_USERNAME,
-    appName: "cool-app", //the name you want this service to be seen as in your navidrome settings
+    appName: "nav-lcd", //the name you want this service to be seen as in your navidrome settings
     version: "1.16.1",
     password: process.env.NAVIDROME_PASSWORD,
     salt: salt,
